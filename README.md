@@ -13,3 +13,6 @@ The competition website is: [https://www.codabench.org](https://www.codabench.or
 As part of a class competition, I developed and fine-tuned a Convolutional Neural Network (CNN) model to classify image data, ultimately achieving an accuracy of 82%. Through iterative optimization and careful parameter tuning, I was able to significantly improve the model’s performance and ranked within the top 10 participants in the competition. 
 
 This experience strengthened my understanding of deep learning workflows and highlighted the importance of model evaluation and refinement in achieving competitive results.
+
+![leaderboard2](https://github.com/user-attachments/assets/55db6fc2-63c7-4a1c-87e2-0b5c23cc4e84)
+
