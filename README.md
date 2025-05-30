@@ -14,5 +14,6 @@ As part of a class competition, I developed and fine-tuned a Convolutional Neura
 
 This experience strengthened my understanding of deep learning workflows and highlighted the importance of model evaluation and refinement in achieving competitive results.
 
-![leaderboard2](https://github.com/user-attachments/assets/55db6fc2-63c7-4a1c-87e2-0b5c23cc4e84)
 
+
+![leaderboard2](https://github.com/user-attachments/assets/ddaa5e4c-ac96-44d4-a67e-5abc0089429b)
